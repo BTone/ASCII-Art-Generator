@@ -1,5 +1,3 @@
-from typing import NamedTuple
-
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 
